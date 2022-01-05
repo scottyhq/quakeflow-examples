@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:58:02.620", "magnitude": 3.29, "longitude": -117.516998, "latitude": 35.700832, "depth(m)": 2770.0 }, "geometry": { "type": "Point", "coordinates": [ -117.516998, 35.700832 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:57:31.430", "magnitude": 2.91, "longitude": -117.525, "latitude": 35.661, "depth(m)": 1440.0 }, "geometry": { "type": "Point", "coordinates": [ -117.525, 35.661 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:52:41.530", "magnitude": 2.94, "longitude": -117.540167, "latitude": 35.718833, "depth(m)": 1440.0 }, "geometry": { "type": "Point", "coordinates": [ -117.540167, 35.718833 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:51:46.450", "magnitude": 3.4, "longitude": -117.539169, "latitude": 35.690834, "depth(m)": 160.0 }, "geometry": { "type": "Point", "coordinates": [ -117.539169, 35.690834 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:47:17.570", "magnitude": 3.59, "longitude": -117.549667, "latitude": 35.744335, "depth(m)": 1490.0 }, "geometry": { "type": "Point", "coordinates": [ -117.549667, 35.744335 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:46:50.080", "magnitude": 3.38, "longitude": -117.618668, "latitude": 35.639168, "depth(m)": 7610.0 }, "geometry": { "type": "Point", "coordinates": [ -117.618668, 35.639168 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:46:03.730", "magnitude": 3.4, "longitude": -117.610001, "latitude": 35.641499, "depth(m)": 10160.0 }, "geometry": { "type": "Point", "coordinates": [ -117.610001, 35.641499 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:44:32.820", "magnitude": 4.1, "longitude": -117.507167, "latitude": 35.6875, "depth(m)": 1540.0 }, "geometry": { "type": "Point", "coordinates": [ -117.507167, 35.6875 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:44:24.020", "magnitude": 2.77, "longitude": -117.54, "latitude": 35.747833, "depth(m)": 9400.0 }, "geometry": { "type": "Point", "coordinates": [ -117.54, 35.747833 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:43:29.200", "magnitude": 3.6, "longitude": -117.5488, "latitude": 35.6783, "depth(m)": 5150.0 }, "geometry": { "type": "Point", "coordinates": [ -117.5488, 35.6783 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:42:54.130", "magnitude": 3.22, "longitude": -117.558667, "latitude": 35.730167, "depth(m)": 7840.0 }, "geometry": { "type": "Point", "coordinates": [ -117.558667, 35.730167 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:41:20.850", "magnitude": 3.3, "longitude": -117.528833, "latitude": 35.726667, "depth(m)": 1970.0 }, "geometry": { "type": "Point", "coordinates": [ -117.528833, 35.726667 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:40:18.530", "magnitude": 4.4, "longitude": -117.522, "latitude": 35.706333, "depth(m)": 2650.0 }, "geometry": { "type": "Point", "coordinates": [ -117.522, 35.706333 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:40:02.270", "magnitude": 4.0, "longitude": -117.571833, "latitude": 35.725833, "depth(m)": 6820.0 }, "geometry": { "type": "Point", "coordinates": [ -117.571833, 35.725833 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:39:35.380", "magnitude": 3.7, "longitude": -117.4995, "latitude": 35.6842, "depth(m)": 10200.0 }, "geometry": { "type": "Point", "coordinates": [ -117.4995, 35.6842 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:38:47.500", "magnitude": 3.5, "longitude": -117.5782, "latitude": 35.6215, "depth(m)": 9700.0 }, "geometry": { "type": "Point", "coordinates": [ -117.5782, 35.6215 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:37:55.590", "magnitude": 4.1, "longitude": -117.553167, "latitude": 35.742167, "depth(m)": 4150.0 }, "geometry": { "type": "Point", "coordinates": [ -117.553167, 35.742167 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:37:25.670", "magnitude": 3.0, "longitude": -117.4525, "latitude": 35.6785, "depth(m)": 15760.0 }, "geometry": { "type": "Point", "coordinates": [ -117.4525, 35.6785 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:35:01.660", "magnitude": 4.49, "longitude": -117.567167, "latitude": 35.644, "depth(m)": 4640.0 }, "geometry": { "type": "Point", "coordinates": [ -117.567167, 35.644 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:33:49.040", "magnitude": 6.4, "longitude": -117.506, "latitude": 35.705167, "depth(m)": 10710.0 }, "geometry": { "type": "Point", "coordinates": [ -117.506, 35.705167 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:15:47.110", "magnitude": 1.41, "longitude": -117.494333, "latitude": 35.707833, "depth(m)": 11190.0 }, "geometry": { "type": "Point", "coordinates": [ -117.494333, 35.707833 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:13:51.610", "magnitude": 0.91, "longitude": -117.476667, "latitude": 35.710667, "depth(m)": 13560.0 }, "geometry": { "type": "Point", "coordinates": [ -117.476667, 35.710667 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:12:38.200", "magnitude": 1.91, "longitude": -117.494333, "latitude": 35.7065, "depth(m)": 10710.0 }, "geometry": { "type": "Point", "coordinates": [ -117.494333, 35.7065 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:12:15.070", "magnitude": 2.13, "longitude": -117.5075, "latitude": 35.706, "depth(m)": 9550.0 }, "geometry": { "type": "Point", "coordinates": [ -117.5075, 35.706 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:11:32.860", "magnitude": 0.95, "longitude": -117.491333, "latitude": 35.7085, "depth(m)": 11520.0 }, "geometry": { "type": "Point", "coordinates": [ -117.491333, 35.7085 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:09:20.100", "magnitude": 2.49, "longitude": -117.498833, "latitude": 35.707, "depth(m)": 11550.0 }, "geometry": { "type": "Point", "coordinates": [ -117.498833, 35.707 ] } },
+{ "type": "Feature", "properties": { "time": "2019-07-04T17:02:55.360", "magnitude": 3.98, "longitude": -117.505833, "latitude": 35.707, "depth(m)": 10280.0 }, "geometry": { "type": "Point", "coordinates": [ -117.505833, 35.707 ] } }
+]
+}

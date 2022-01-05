@@ -1,0 +1,11 @@
+name: quakeflow
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - cartopy
+  - geopandas
+  - ipyleaflet
+  # https://github.com/obspy/obspy/issues/2912
+  - numpy<1.22
+  - obspy
