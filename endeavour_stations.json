@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "index": "NV.ENWF..HH", "longitude": -129.124481, "latitude": 47.959766, "elevation(m)": -2361.0, "component": "E,N,Z", "response": "470625000.00,465625000.00,466250000.00", "unit": "m/s", "id": "NV.ENWF..HH" }, "geometry": { "type": "Point", "coordinates": [ -129.124481, 47.959766 ] } },
+{ "type": "Feature", "properties": { "index": "NV.KEMF..EH", "longitude": -129.098661, "latitude": 47.948572, "elevation(m)": -2195.0, "component": "E,N,Z", "response": "2062090509.62,2192493696.24,2054927338.07", "unit": "m/s", "id": "NV.KEMF..EH" }, "geometry": { "type": "Point", "coordinates": [ -129.098661, 47.948572 ] } },
+{ "type": "Feature", "properties": { "index": "NV.KEMO..EH", "longitude": -129.1082, "latitude": 47.924102, "elevation(m)": -2270.0, "component": "E,N,Z", "response": "2117784418.20,2092786586.21,2102745937.83", "unit": "m/s", "id": "NV.KEMO..EH" }, "geometry": { "type": "Point", "coordinates": [ -129.1082, 47.924102 ] } },
+{ "type": "Feature", "properties": { "index": "NV.NCHR..EH", "longitude": -129.082092, "latitude": 47.973751, "elevation(m)": -2152.0, "component": "E,N,Z", "response": "2286700000.00,2112700000.00,2129640000.00", "unit": "m/s", "id": "NV.NCHR..EH" }, "geometry": { "type": "Point", "coordinates": [ -129.082092, 47.973751 ] } }
+]
+}
